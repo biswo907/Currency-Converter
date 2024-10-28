@@ -1,8 +1,34 @@
-# React + Vite
+# Dynamic Currency Converter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A dynamic currency converter application built with React and TanStack Query, utilizing the Frankfurter API for real-time exchange rate data. This project demonstrates expertise in modern React development, advanced state management, and effective API integration.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [API Integration](#api-integration)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Real-time currency conversion using up-to-date exchange rates.
+- Intuitive user interface for seamless interactions.
+- Efficient data fetching and caching with TanStack Query.
+- Responsive design for optimal viewing on various devices.
+
+## Technologies Used
+
+- **React**: JavaScript library for building user interfaces.
+- **TanStack Query**: Powerful data-fetching library for managing server state.
+- **Frankfurter API**: A simple and free API for getting currency exchange rates.
+- **CSS**: For styling the application.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/dynamic-currency-converter.git
+   cd dynamic-currency-converter
