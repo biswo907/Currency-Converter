@@ -30,5 +30,5 @@ A dynamic currency converter application built with React and TanStack Query, ut
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dynamic-currency-converter.git
-   cd dynamic-currency-converter
+   git clone https://github.com/biswo907/Currency-Converter.git
+   cd Currency-Converter
